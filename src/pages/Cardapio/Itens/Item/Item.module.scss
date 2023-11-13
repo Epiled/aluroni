@@ -9,15 +9,16 @@ $veganos: #80aa40;
 .item {
   display: flex;
   flex-wrap: wrap;
-  width: 90%;
+  width: 100%;
   &__imagem {
     min-width: 240px;
-    @media (max-width: $desktop_xsm) {
+    @media (max-width: $desktop_md) {
       width: 100%;
     }
     img {
       border-radius: 8px;
       width: 100%;
+      height: auto;
     }
   }
   &__descricao {
