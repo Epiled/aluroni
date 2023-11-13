@@ -8,13 +8,13 @@ Projeto do curso <a href="https://www.alura.com.br/challenges/front-end-7">React
 | :label: Tecnologias | html, css, js, sass, css modules, node, typescript, react
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![thumb-meteora](https://github.com/Epiled/Front-End-Desafio-7/assets/55258483/6d59c246-4529-460f-9cd5-a2d00768b768#vitrinedev)
+![thumb-aluroni](https://github.com/Epiled/aluroni/assets/55258483/e0df6833-3ec3-425a-892a-55b597242b34#vitrinedev)
 
 <h2 id="detalhes-do-projeto"> 📃 Detalhes do projeto </h2>
 
-Nesse projeto foi desenvolvido uma página de cardapio para o restaurante Aluroni, com direito a filtros de busca e ordenação além de um campo de busca.
+Neste projeto, foi desenvolvida uma página de cardápio para o restaurante Aluroni, que inclui filtros de busca, opções de ordenação e um campo de busca.
 
-O código foi desenvolvido em React com Typescript e CSS Modules em Sass.
+O código foi desenvolvido em React com TypeScript e estilizado usando CSS Modules e Sass.
 
 ![Badge](https://img.shields.io/github/last-commit/Epiled/aluroni?style=for-the-badge)
 ![Badge](https://img.shields.io/github/languages/code-size/Epiled/aluroni?style=for-the-badge)
