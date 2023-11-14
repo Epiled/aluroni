@@ -1,6 +1,6 @@
 # 🍕 Aluroni
 
-Projeto do curso <a href="https://www.alura.com.br/challenges/front-end-7">React: lidando com arquivos estáticos</a> da Alura, curso ministrado pelo instrutoro <a href="https://www.linkedin.com/in/lfrprazeres/">Luiz Fernando Ribeiro</a>.
+Projeto do curso <a href="https://cursos.alura.com.br/course/react-arquivos-estaticos">React: lidando com arquivos estáticos</a> da Alura, curso ministrado pelo instrutoro <a href="https://www.linkedin.com/in/lfrprazeres/">Luiz Fernando Ribeiro</a>.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
