@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/aluroni/static/css/main.1672b50b.css",
-    "main.js": "/aluroni/static/js/main.ecf1f49a.js",
+    "main.js": "/aluroni/static/js/main.ed58c19b.js",
     "static/media/header.png": "/aluroni/static/media/header.b657dd083e14f631a54c.png",
     "static/media/logo.svg": "/aluroni/static/media/logo.8b2190869dbd85be99e749b6b326394a.svg",
     "index.html": "/aluroni/index.html",
     "main.1672b50b.css.map": "/aluroni/static/css/main.1672b50b.css.map",
-    "main.ecf1f49a.js.map": "/aluroni/static/js/main.ecf1f49a.js.map"
+    "main.ed58c19b.js.map": "/aluroni/static/js/main.ed58c19b.js.map"
   },
   "entrypoints": [
     "static/css/main.1672b50b.css",
-    "static/js/main.ecf1f49a.js"
+    "static/js/main.ed58c19b.js"
   ]
 }
