@@ -29,7 +29,7 @@ O código foi desenvolvido em React com TypeScript e estilizado usando CSS Modul
 ![Badge](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Badge](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Badge](https://img.shields.io/badge/-CSS%20Modules-000000?style=for-the-badge&logo=cssmodules&logoColor=white)
-![Badge](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=json&logoColor=white)
+![Badge](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 <h2> 📑 Tabela de Conteúdos </h2>
