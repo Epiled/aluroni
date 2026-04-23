@@ -1,12 +1,19 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
+import { StrictMode } from 'react';
+import { createRoot } from 'react-dom/client';
 import 'normalize.css';
 import './index.css';
 import Router from './routes';
 
-ReactDOM.render(
-  <React.StrictMode>
+const rootElement = document.getElementById('root');
+
+if (!rootElement) {
+  throw new Error(
+    "Failed to find the root element. Make sure there is a <div id='root'></div> in your index.html.",
+  );
+}
+
+createRoot(rootElement).render(
+  <StrictMode>
     <Router />
-  </React.StrictMode>,
-  document.getElementById('root'),
+  </StrictMode>,
 );
