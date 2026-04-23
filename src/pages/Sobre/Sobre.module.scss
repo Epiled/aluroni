@@ -1,16 +1,18 @@
 .sobreNos {
+  margin-bottom: 50px;
   display: flex;
   gap: 20px;
-  margin-bottom: 50px;
+
   &__texto {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    font-size: 1.5rem;
     font-weight: bold;
+    font-size: 1.5rem;
     text-align: justify;
+
     > p {
-      font-family: 'Josefin Sans', sans-serif;
+      font-family: "Josefin Sans", sans-serif;
     }
   }
 }
@@ -18,10 +20,12 @@
 .imagens {
   display: flex;
   flex-wrap: wrap;
-  gap: 20px;
   justify-content: space-between;
+  gap: 20px;
+
   &__imagem {
     width: 600px;
+
     img {
       border-radius: 5px;
       width: 100%;

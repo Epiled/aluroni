@@ -1,4 +1,4 @@
-import React, { RefObject, memo, useEffect, useMemo, useRef } from 'react';
+import React, { type RefObject, memo, useEffect, useMemo, useRef } from 'react';
 import styles from './Buscador.module.scss';
 import { CgSearch } from 'react-icons/cg';
 
