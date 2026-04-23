@@ -6,9 +6,7 @@ export default function Carregando() {
     <div className={styles.carregando}>
       <div className={styles.carregando__container}>
         <img className={styles.carregando__imagem} src={load} alt="#" />
-        <span className={styles.carregando__txt}>
-          Carregando!
-        </span>
+        <span className={styles.carregando__txt}>Carregando!</span>
       </div>
     </div>
   );
