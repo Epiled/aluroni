@@ -1,23 +1,24 @@
-@import 'styles/variaveis';
+@import "styles/variaveis";
 
 .container {
-  align-items: center;
   display: flex;
-  flex: 1;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
+  flex: 1;
 }
 
 .voltar {
+  width: 100%;
   display: flex;
   justify-content: flex-start;
-  width: 100%;
+
   button {
-    background-color: transparent;
     border: none;
+    background-color: transparent;
     color: $red;
-    cursor: pointer;
-    font-size: 1.5rem;
     font-weight: bold;
+    font-size: 1.5rem;
+    cursor: pointer;
   }
 }
